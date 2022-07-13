@@ -12,7 +12,7 @@ Feature: Validating Place API's
   Examples:
     |name       | language  | address              |
     |AAhouse    | English   | World cross centre   |
-#    |BBhouse    | French    | World cross centre1  |
+    |BBhouse    | French    | World cross centre1  |
 
   @DeletePlace @Regression
   Scenario: Verify if Delete Place functionality is working
