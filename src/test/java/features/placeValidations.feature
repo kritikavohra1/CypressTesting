@@ -15,6 +15,7 @@ Feature: Validating Place API's
     |BBhouse    | French    | World cross centre1  |
     |CChouse    | French    | World cross centre2  |
     |DDhouse    | French    | World cross centre3  |
+    |DAhouse    | French    | World cross centre3  |
 
   @DeletePlace @Regression
   Scenario: Verify if Delete Place functionality is working
